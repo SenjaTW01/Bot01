@@ -1,0 +1,16 @@
+{
+  "SmBoL1": "ﾒ",
+  "SmBoL2": ">",
+  "ownerNumber": ["6285860266897@s.whatsapp.net"],
+  "ownerName": ["SenjaCupu"],
+  "botName": "KenzBot",
+  "sessionName": "session",
+  "pathimg": "./storage/media/neobot.png",
+  "FakeNya": "KenzBotz © 2021",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
