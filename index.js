@@ -1,9 +1,3 @@
-/**
- - Created By Lexxy Official
- - Base Neobot Multi Device
- - Silahkan Di Pakai & Kembangkan Fiturnya
-*/
-
 "use strict";
 const {
 	default: makeWASocket,
